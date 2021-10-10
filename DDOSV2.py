@@ -18,7 +18,7 @@ acceptall = [
      'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\n',
      'Accept-Encoding: gzip, deflate\r\n'
 ]
-referers = ['Your_Server_Got_DDoS_By_Irgy]
+referers = ['Your_Server_Got_DDoS_By_Irgy']
 import random
 import socket
 import threading
